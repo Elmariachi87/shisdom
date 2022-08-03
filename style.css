@@ -1,0 +1,16 @@
+* {
+  margin: auto;
+  text-align: center;
+  justify-items: center;
+  width: 90%;
+  padding: 1rem;
+}
+
+h1 {
+  text-align: center;
+  margin: auto;
+  width: 75%;
+}
+.container {
+  background-color: grey;
+}
